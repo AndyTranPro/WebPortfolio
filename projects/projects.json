@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Carsties",
+    "desc": "An auction web application built by using .NET 8.0 for the backend system and NextJs for frontend development.",
+    "image": "carsties2",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/Carsties",
+      "code": "https://github.com/AndyTranPro/Carsties"
+    }
+  },
+  {
+    "name": "FooBooLoo",
+    "desc": "A FizzBuzz-like based game was built by using .NET for backend implementation and React-Typescript for frontend development.",
+    "image": "foobooloo",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/FooBooLoo",
+      "code": "https://github.com/AndyTranPro/FooBooLoo"
+    }
+  },
+  {
+    "name": "Blue Realty State",
+    "desc": "A demo of real estate application using ASP.NET MVC",
+    "image": "brs",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/BlueRealtyEstateMVC",
+      "code": "https://github.com/AndyTranPro/BlueRealtyEstateMVC"
+    }
+  },
+  {
+    "name": "Quizzies",
+    "desc": "A quiz web application built by using .NET 8.0 and Bootstrap 5",
+    "image": "quizzies",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/QuizziesTime",
+      "code": "https://github.com/AndyTranPro/QuizziesTime"
+    }
+  },
+  {
+    "name": "Emy Booking",
+    "desc": "Demo of space allocation system for Emy implemented by MERN stack.",
+    "image": "emy",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/AndyTranPro/EmyBooking",
+      "code": "https://github.com/AndyTranPro/EmyBooking"
+    }
+  },
+  {
+    "name": "Real Estate",
+    "desc": "A real estate application implemented by using ASP.NET Razor framework",
+    "image": "realestate",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/RealEstateApplication",
+      "code": "https://github.com/AndyTranPro/RealEstateApplication"
+    }
+  },
+  {
+    "name": "QA Forum",
+    "desc": "This is a lightweight forum application that is designed to be easy to use and easy to deploy.",
+    "image": "forum",
+    "category": "vanilla",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Current Time Service",
+    "desc": "Demo web app for current time service",
+    "image": "cts",
+    "category": "dotnet",
+    "links": {
+      "view": "https://github.com/AndyTranPro/CurrentTimeService",
+      "code": "https://github.com/AndyTranPro/CurrentTimeService"
+    }
+  },
+  {
+    "name": "Dungeon Mania",
+    "desc": "A new game called Dungeon Mania, but with a modern twist - designed as a web application.",
+    "image": "dungeon",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/AndyTranPro/java-dungeon-game",
+      "code": "https://github.com/AndyTranPro/java-dungeon-game"
+    }
+  },
+  {
+    "name": "Presentties",
+    "desc": "An alternative to slides.com that is a lean, lightweight app that is a lot more enjoyable and interesting to use and that will revolutionise the presentations industry for decades to come.",
+    "image": "presentties",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/AndyTranPro/Presentties",
+      "code": "https://github.com/AndyTranPro/Presentties"
+    }
+  },
+  {
+    "name": "Chatter Place",
+    "desc": "Chatting application implemented using Python",
+    "image": "chatter",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/AndyTranPro/ChatterPlace",
+      "code": "https://github.com/AndyTranPro/ChatterPlace"
+    }
+  },
+  {
+    "name": "CSE Valley",
+    "desc": "A farming game is built based on C programming skills.",
+    "image": "valley",
+    "category": "c",
+    "links": {
+      "view": "https://github.com/AndyTranPro/CSEValley",
+      "code": "https://github.com/AndyTranPro/CSEValley"
+    }
+  },
+  {
+    "name": "Data Tuner",
+    "desc": "A platform which can optimize and tune hospital datasets using Python SGD",
+    "image": "tuner",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/AndyTranPro/DataTuner",
+      "code": "https://github.com/AndyTranPro/DataTuner"
+    }
+  },
+  {
+    "name": "Water Master",
+    "desc": "This is the program that is designed for ROV robot to clean up trash in the ocean.",
+    "image": "water",
+    "category": "cplusplus",
+    "links": {
+      "view": "https://github.com/AndyTranPro/WaterMaster",
+      "code": "https://github.com/AndyTranPro/WaterMaster"
+    }
+  },
+  {
+    "name": "Pizzeria",
+    "desc": "A console game built using C where the player can manage a pizzeria.",
+    "image": "pizzeria",
+    "category": "c",
+    "links": {
+      "view": "https://github.com/AndyTranPro/Pizzeria",
+      "code": "https://github.com/AndyTranPro/Pizzeria"
+    }
+  },
+  {
+    "name": "Blogging Website",
+    "desc": "Blog page for film reviews",
+    "image": "blog",
+    "category": "html",
+    "links": {
+      "view": "https://github.com/AndyTranPro/Blogging",
+      "code": "https://github.com/AndyTranPro/Blogging"
+    }
+  },
+  {
+    "name": "Natural Language Process",
+    "desc": "A natural language processing system that is used to determine various attributes of an article or blog post.",
+    "image": "nlp",
+    "category": "python",
+    "links": {
+      "view": "https://tsfbank.rf.gd",
+      "code": "https://github.com/jigar-sable/TSF-Bank"
+    }
+  },
+  {
+    "name": "Mictopage",
+    "desc": "A lightweight version of page template for micto using HTML and CSS",
+    "image": "mictopage",
+    "category": "html",
+    "links": {
+      "view": "https://github.com/AndyTranPro/Mictopage",
+      "code": "https://github.com/AndyTranPro/Mictopage"
+    }
+  }
+]
